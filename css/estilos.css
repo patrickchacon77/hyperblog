@@ -1,7 +1,9 @@
 body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: #45cc57;
-    border: coral;
-    font-size: 18px;
+    color: #9b1cce;
+    border: rgb(29, 179, 24);
+    font-size: 25px;
+    background-color: rgb(209, 188, 229);
+    box-shadow: burlywood 15%;
 }
